@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HundredMonkeys
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning HTML, CSS and JS.
+- 📫 How to reach me: NapalmAddict#5889 (discord)
